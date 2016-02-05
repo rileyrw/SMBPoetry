@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SMBPoetry</string>
+    <string name="action_settings">Settings</string>
+    <string name="poem1">The shadows of night danced across\n
+        the moon, illuminating the earth with\n
+        a sprinkle of twilight never seen before.\n
+        A party in the sky and everyone\n
+        was in awe and attendance.\n\n
+        By Babydoll Laments\n
+
+    </string>
+    <string name="love_button_text">Show me some Poetry</string>
+
+</resources>
